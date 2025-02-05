@@ -1,0 +1,16 @@
+[----------------------]
+Student ID: 1
+Name: A
+Standing: B
+Major: C
+GPA: 3.5
+Advisor's ID: 1
+[----------------------]
+[----------------------]
+Faculty ID: 1
+Name: T
+Job Title/Role: T
+Department: T
+Advisee IDs: 
+1
+[----------------------]
